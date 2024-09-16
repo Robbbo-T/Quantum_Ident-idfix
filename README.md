@@ -1,3 +1,8 @@
+https://github.com/Robbbo-T/Quantum_Ident-idfix
+
+Developer: Amedeo Pelliccia
+Initiative: Ampel ChatGPT
+
 # **TerraBrain SuperSystem Repository**
 
 ## Key Components of the TerraBrain SuperSystem
